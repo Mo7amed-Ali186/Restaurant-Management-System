@@ -1,8 +1,3 @@
-# Restaurant-Management-System
-Here's a comprehensive description for your Restaurant Management System project that you can use on GitHub:
-
----
-
 ## Restaurant Management System
 
 The **Restaurant Management System** is a comprehensive solution designed to streamline and optimize the management of various aspects of a restaurant's operations. This system leverages modern technologies to provide an efficient and user-friendly platform for managing orders, inventory, reservations, and generating detailed reports.
